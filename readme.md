@@ -3,7 +3,7 @@ rust intro:
 | DONE | Read in _The Rust Book_                 | Then do Rustlings                           |
 | ---- | --------------------------------------- | ------------------------------------------- |
 | DONE | Ch. 1–2: Getting Started, Guessing Game | `intro`, `variables`                        |
-| TODO | Ch. 3: Common Programming Concepts      | `functions`, `if`, basic exercises          |
+| DONE | Ch. 3: Common Programming Concepts      | `functions`, `if`, basic exercises          |
 | TODO | Ch. 4: **Ownership**                    | `move_semantics`                            |
 | TODO | Ch. 5: Structs                          | `structs`                                   |
 | TODO | Ch. 6: Enums + `match`                  | `enums`                                     |
